@@ -1,4 +1,4 @@
-<img width="1279" height="1279" alt="image" src="https://github.com/user-attachments/assets/6d019bf4-366e-476a-a9a6-445abaa31458" />
+<img width="736" height="726" alt="image" src="https://github.com/user-attachments/assets/038dd332-1fc0-40ed-9e11-f22433f43870" />
 
 
 Лабораторная работа №5: Форматирование README.md
